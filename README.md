@@ -1,3 +1,3 @@
 neurodorfl
 ==========
-Console semi-intelligent neurobot.
+Console semi-intelligent neurobot. Coming soon.
