@@ -20,7 +20,7 @@
     </dependencies>
 
     <build>
-        <finalName>chaos-monkey</finalName>
+        <finalName>neurodorphl</finalName>
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
